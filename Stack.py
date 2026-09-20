@@ -34,7 +34,7 @@ while(True):
 
     elif(pilihan==4):
         print("Terima Kasih")
+        break
     
     else:
         print("Masukan pilihan yang benar...")
-        break
